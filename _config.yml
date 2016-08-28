@@ -1,0 +1,14 @@
+layout_spectrum: 0.7680162803735584
+typography_spectrum: 0.3303083733189851
+color:
+  brandStrength: 0.6466235192492604
+  lightness: 0.6802031106781214
+  saturation: 0.02235131897032261
+  rhythmicContrast: 0.9569187993183732
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: TimsWorld
